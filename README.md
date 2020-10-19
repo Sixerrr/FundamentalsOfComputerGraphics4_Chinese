@@ -17,7 +17,8 @@ Fundamentals Of Computer Graphics，计算机图形学原理。中文常称为�
 ## 概览
 
 ***
-[TOC]
+
+
 ### 1 介绍(Introduction)
 #### 1.1 图形领域(Graphics Areas)
 #### 1.2 主要应用(Major Applications)
