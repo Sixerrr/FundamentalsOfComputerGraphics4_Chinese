@@ -12,7 +12,7 @@ Fundamentals Of Computer Graphics，计算机图形学原理。中文常称为�
 
 ***
 
-![](img/v2-78a9d24a5c440fd885bc083ec4704acd_1440w.jpg)
+![封面](img/v2-78a9d24a5c440fd885bc083ec4704acd_1440w.jpg)
 
 ## 概览
 
